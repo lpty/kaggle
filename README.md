@@ -1,5 +1,5 @@
 ### Introduction
-Some code about Kaggle competitions.
+Some solutions about Kaggle competitions.
 
 ### Overview
 #### Titanic
