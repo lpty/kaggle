@@ -1,5 +1,5 @@
 # abs
-abs_path = '/alidata1/admin/llb/localwork/kaggle/quora/{}'
+abs_path = '{Your Path}/kaggle/quora/{}'
 # corpus
 root_path = abs_path.format('data/{}')
 origin_train_file = root_path.format('train.csv')
