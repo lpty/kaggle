@@ -10,7 +10,7 @@ Some solutions about Kaggle competitions.
 
 #### Quora
 
-* Categories: Getting Started
+* Categories: Featured
 * Score: 0.17574
 * Leaderboard: Almost 600/3300 Top 20%
 
