@@ -12,7 +12,7 @@ For more see : https://www.kaggle.com/c/quora-question-pairs
 ### Detail
 * Categories: Featured
 * Score: 0.17574
-* Leaderboard: Almost 600/3257 Top 20%
+* Leaderboard: Almost 600/3300 Top 20%
 
 ### Other & Blog
 More detail can found in my blog:
