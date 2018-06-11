@@ -10,9 +10,11 @@ Description from Kaggle:
 For more see : https://www.kaggle.com/c/quora-question-pairs
 
 ### Detail
-* Categories: Getting Started
+* Categories: Featured
 * Score: 0.17574
 * Leaderboard: Almost 600/3257 Top 20%
 
 ### Other & Blog
 More detail can found in my blog:
+
+    https://blog.csdn.net/sinat_33741547/article/details/80655906
